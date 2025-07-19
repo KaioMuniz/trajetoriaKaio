@@ -1,7 +1,3 @@
-# Ainda vou fazer.. calma ai curioso!
-
-
-
 #- Trajetória Profissional de Kaio Muniz
 
 ## 2022 | **Darving**
@@ -10,6 +6,7 @@
 *Niterói, Rio de Janeiro, Brasil* (Presencial)
 Estágio ao lado de um senior em Java com 20 anos de experiência
 
+
 ---
 
 
@@ -17,7 +14,9 @@ Estágio ao lado de um senior em Java com 20 anos de experiência
 **Bacharel em Análise e Desenvolvimento de Sistemas**  
 *Julho de 2023 - Dezembro de 2025*
 
+
 ---
+
 
 ## 2025 | **Darving**
 **Estagiário Java**  
@@ -27,6 +26,7 @@ Estágio ao lado de um senior em Java com 20 anos de experiência
 
 
 ---
+
 
 ## 2025 | **COTI INFORMATICA**
 **Java Web Developer - Formação FullStack**  
