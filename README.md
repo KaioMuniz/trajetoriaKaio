@@ -8,7 +8,11 @@
         <h3>📅 2022 | <strong>Darving</strong> - Estagiário Java</h3>
         <p><em>Novembro de 2022 - Janeiro de 2023 (3 meses)</em></p>
         <p><strong>Local:</strong> Niterói, Rio de Janeiro, Brasil (Presencial)</p>
-        <p>Durante esse período, colaborei com um mentor sênior em Java, que possuía 20 anos de experiência, contribuindo significativamente para o desenvolvimento de software. Minha principal função foi aprender e colaborar em diversas fases de construção e análise de sistemas, desenvolvendo uma compreensão prática das melhores práticas e técnicas de programação.</p>
+        <p>
+              <li>Colaboração com mentor sênior em Java com 20 anos de experiência</li>
+              <li>Apoio no desenvolvimento de APIs RESTful e soluções com Spring Boot e Angular</li>
+              <li>Participação em análise e codificação de sistemas, ganhando experiência prática com ferramentas modernas</li>
+        </p>
       </a>
       <p><strong>Tecnologias:</strong> Java, Spring Boot, JPA, Hibernate, Git, Testes Unitários, Eclipse/VSCode, Desenvolvimento Ágil, Integração Contínua, SQL, Maven, RESTful APIs, HTML/CSS, Docker.</p>
     </td>
@@ -74,7 +78,11 @@
         <h3>📅 2025 | <strong>Darving</strong> - Estagiário Java</h3>
         <p><em>Janeiro de 2025 - Maio de 2025 (5 meses)</em></p>
         <p><strong>Local:</strong> Niterói, Rio de Janeiro, Brasil (Presencial)</p>
-        <p>No segundo estágio com a Darving, minha experiência se aprofundou com tecnologias como Spring Boot e Docker. Ao lado de um mentor com vasta experiência, refinei conhecimentos sobre código limpo e arquitetura de software, aplicando as melhores práticas para desenvolvimento de sistemas robustos e escaláveis.</p>
+        <p>
+          <li>Aprofundamento em arquitetura de software e código limpo</li>
+          <li>Implementação de microsserviços com boas práticas de DDD e TDD</li>
+          <li>Participação em projetos com integração contínua, documentação com Swagger e mensageria com RabbitMQ</li>
+        </p>
       </a>
       <p><strong>Tecnologias:</strong> Spring Boot, Docker, Código Limpo, Arquitetura Limpa, DDD, TDD, Spring Data, RabbitMQ, JPA, Hibernate, Desenvolvimento Ágil, Redmine, Azure DevOps, Swagger.</p>
     </td>
