@@ -5,7 +5,7 @@
   <tr>
     <td>
       <a href="#">
-        <h3>📅 2022 | <strong>Darving</strong> - Estagiário Java</h3>
+        <h3>📅 2022 | <strong>Darving</strong> - Full Stack Java Development</h3>
         <p><em>Novembro de 2022 - Janeiro de 2023 (3 meses)</em></p>
         <p><strong>Local:</strong> Niterói, Rio de Janeiro, Brasil (Presencial)</p>
         <p>
@@ -75,7 +75,7 @@
   <tr>
     <td>
       <a href="#">
-        <h3>📅 2025 | <strong>Darving</strong> - Estagiário Java</h3>
+        <h3>📅 2025 | <strong>Darving</strong> - Full Stack Java Development</h3>
         <p><em>Janeiro de 2025 - Maio de 2025 (5 meses)</em></p>
         <p><strong>Local:</strong> Niterói, Rio de Janeiro, Brasil (Presencial)</p>
         <p>
