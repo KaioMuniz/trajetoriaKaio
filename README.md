@@ -26,7 +26,7 @@
         <h3>📅 2023 - 2025 | <strong>Estácio</strong> - Bacharel em Análise e Desenvolvimento de Sistemas</h3>
         <p><em>Julho de 2023 - Dezembro de 2025 (2 anos & 6 meses)</em></p>
         <p><strong>AO VIVO / ONLINE:</strong></p>
-        <p>Atualmente, estou cursando Bacharelado em Análise e Desenvolvimento de Sistemas, onde estou me aprofundando em programação, arquitetura de software e práticas de desenvolvimento. O curso tem sido uma excelente oportunidade para consolidar conhecimentos teóricos que complementam minha experiência prática adquirida no estágio.</p>
+        <p>Atualmente, estou cursando Bacharelado em Análise e Desenvolvimento de Sistemas, onde estou me aprofundando em programação, arquitetura de software e práticas de desenvolvimento. O curso tem sido uma excelente oportunidade para consolidar conhecimentos teóricos que complementam minha experiência prática adquirida.</p>
       </a>
       <p><strong>2023.2</strong></p>
       <ul>
@@ -92,27 +92,26 @@
 <table>
   <tr>
     <td>
-      <a href="#">
-        <h3>📅 2025 | <strong>COTI INFORMATICA</strong> - Java Web Developer - Formação FullStack</h3>
-        <p><em>Março de 2025 - Março de 2026 (1 ano)</em></p>
-        <p><strong>Local:</strong> Centro, Rio de Janeiro - RJ (Presencial)</p>
-        <p>Iniciei minha formação como Java Web Developer, com foco em Desenvolvimento Full Stack. Durante este curso, aprofundarei meus conhecimentos em frontend com Angular e backend com Java e Spring Boot, solidificando ainda mais minha capacidade de trabalhar com tecnologias modernas e escaláveis, tanto no desenvolvimento de interfaces de usuário quanto na construção de sistemas robustos no backend.</p>
-      </a>
-      <p><strong>Ferramentas:</strong> Eclipse, VSCode, PostGreSQL, MySQL, MongoDB, RabbitMQ, Docker, OpenAI (ChatGPT).</p>
-      <p><strong>Resumo das Tecnologias / Padrões:</strong></p>
-      <ul>
-        <li>Java Orientado a Objetos</li>
-        <li>Código Limpo e Arquitetura Limpa</li>
-        <li>DDD - Domain Driven Design</li>
-        <li>TDD - Test Driven Development</li>
-        <li>Angular 18-19-20</li>
-        <li>Spring Boot (APIs RESTful e Microserviços)</li>
-        <li>Spring Data (JPA e Hibernate)</li>
-        <li>RabbitMQ e Mensageria</li>
-        <li>Git & GitHub</li>
-        <li>Docker</li>
-      </ul>
+      <h3>📅 2025 | <strong>COTI INFORMÁTICA</strong> - Formação Java Full Stack Developer</h3>
+      <p><em>Março de 2025 - Março de 2026 (1 ano de imersão)</em></p>
+      <p><strong>Local:</strong> Centro, Rio de Janeiro - RJ (Presencial)</p>
+      <p>
+        Iniciei minha jornada como Desenvolvedor Java Full Stack em uma formação intensiva de 96 horas. A profundidade do conteúdo me motivou a realizar uma imersão completa, refazendo o ciclo de aprendizado para solidificar e aprofundar meu conhecimento em cada conceito e ferramenta.
+      </p>
+      <p>
+        Ao longo desta formação, desenvolvi projetos práticos e adquiri experiência em um ecossistema tecnológico robusto, abrangendo:
+        <ul>
+          <li><strong>Backend:</strong> Desenvolvimento com Java Orientado a Objetos, criação de APIs RESTful e arquitetura de microsserviços com Spring Boot, e persistência de dados utilizando Spring Data com JPA/Hibernate.</li>
+          <li><strong>Frontend:</strong> Construção de interfaces dinâmicas e reativas com Angular.</li>
+          <li><strong>Bancos de Dados:</strong> Modelagem e gerenciamento de bancos de dados relacionais (PostgreSQL, MySQL) e NoSQL (MongoDB).</li>
+          <li><strong>Mensageria:</strong> Implementação de comunicação assíncrona com RabbitMQ.</li>
+          <li><strong>DevOps:</strong> Criação e gerenciamento de contêineres com Docker e versionamento de código com Git/GitHub.</li>
+          <li><strong>Princípios e Padrões:</strong> Aplicação de boas práticas como Clean Code, Clean Architecture, Domain-Driven Design (DDD) e Test-Driven Development (TDD).</li>
+          <li><strong>Integrações:</strong> Utilização da API da OpenAI para integração com serviços de inteligência artificial como o ChatGPT.</li>
+        </ul>
+      </p>
     </td>
   </tr>
 </table>
+
 
