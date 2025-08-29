@@ -5,7 +5,7 @@
   <tr>
     <td>
       <a href="#">
-        <h3>📅 2022 | <strong>Darving</strong> - Full Stack Java Development</h3>
+        <h3>📅 2022 | <strong>Projeto de Desenvolvimento (Confidencial)</strong> - Full Stack Java Development</h3>
         <p><em>Novembro de 2022 - Janeiro de 2023 (3 meses)</em></p>
         <p><strong>Local:</strong> Niterói, Rio de Janeiro, Brasil (Presencial)</p>
         <p>
@@ -72,46 +72,84 @@
 </table>
 
 <table>
-  <tr>
-    <td>
-      <a href="#">
-        <h3>📅 2025 | <strong>Darving</strong> - Full Stack Java Development</h3>
-        <p><em>Janeiro de 2025 - Maio de 2025 (5 meses)</em></p>
-        <p><strong>Local:</strong> Niterói, Rio de Janeiro, Brasil (Presencial)</p>
-        <p>
-          <li>Aprofundamento em arquitetura de software e código limpo</li>
-          <li>Implementação de microsserviços com boas práticas de DDD e TDD</li>
-          <li>Participação em projetos com integração contínua, documentação com Swagger e mensageria com RabbitMQ</li>
-        </p>
-      </a>
-      <p><strong>Tecnologias:</strong> Spring Boot, Docker, Código Limpo, Arquitetura Limpa, DDD, TDD, Spring Data, RabbitMQ, JPA, Hibernate, Desenvolvimento Ágil, Redmine, Azure DevOps, Swagger.</p>
-    </td>
-  </tr>
+  <tr>
+    <td>
+      <a href="#">
+        <h3>📅 2024 | <strong>Empresa de Soluções em Tecnologia (Confidencial)</strong> - Desenvolvedor Sênior Java</h3>
+        <p><em>Agosto de 2024 - Dezembro de 2024 (5 meses)</em></p>
+        <p><strong>Local:</strong> Remota</p>
+        <p>
+              <li>Trabalho na manutenção e evolução de um sistema legado robusto (Java 8, arquitetura monolítica), essencial para as operações de um cliente líder no setor de energia.</li>
+              <li>Implementação de novas funcionalidades de ponta a ponta, desde o desenvolvimento de telas com fluxos complexos de autenticação até a alteração de componentes para atender a novas regras de negócio.</li>
+              <li>Realização de testes de integração e validação de APIs utilizando a ferramenta Postman para assegurar a qualidade e o correto funcionamento das entregas.</li>
+        </p>
+      </a>
+      <p><strong>Tecnologias:</strong> Java 8, Arquitetura Monolítica, Spring MVC, JPA/Hibernate, SQL, Postman, Maven, Git, JBoss.</p>
+    </td>
+  </tr>
 </table>
+
 
 <table>
-  <tr>
-    <td>
-      <h3>📅 2025 | <strong>COTI INFORMÁTICA</strong> - Formação Java Full Stack Developer</h3>
-      <p><em>Março de 2025 - Março de 2026 (1 ano de imersão)</em></p>
-      <p><strong>Local:</strong> Centro, Rio de Janeiro - RJ (Presencial)</p>
-      <p>
-        Iniciei minha jornada como Desenvolvedor Java Full Stack em uma formação intensiva de 96 horas. A profundidade do conteúdo me motivou a realizar uma imersão completa, refazendo o ciclo de aprendizado para solidificar e aprofundar meu conhecimento em cada conceito e ferramenta.
-      </p>
-      <p>
-        Ao longo desta formação, desenvolvi projetos práticos e adquiri experiência em um ecossistema tecnológico robusto, abrangendo:
-        <ul>
-          <li><strong>Backend:</strong> Desenvolvimento com Java Orientado a Objetos, criação de APIs RESTful e arquitetura de microsserviços com Spring Boot, e persistência de dados utilizando Spring Data com JPA/Hibernate.</li>
-          <li><strong>Frontend:</strong> Construção de interfaces dinâmicas e reativas com Angular.</li>
-          <li><strong>Bancos de Dados:</strong> Modelagem e gerenciamento de bancos de dados relacionais (PostgreSQL, MySQL) e NoSQL (MongoDB).</li>
-          <li><strong>Mensageria:</strong> Implementação de comunicação assíncrona com RabbitMQ.</li>
-          <li><strong>DevOps:</strong> Criação e gerenciamento de contêineres com Docker e versionamento de código com Git/GitHub.</li>
-          <li><strong>Princípios e Padrões:</strong> Aplicação de boas práticas como Clean Code, Clean Architecture, Domain-Driven Design (DDD) e Test-Driven Development (TDD).</li>
-          <li><strong>Integrações:</strong> Utilização da API da OpenAI para integração com serviços de inteligência artificial como o ChatGPT.</li>
-        </ul>
-      </p>
-    </td>
-  </tr>
+  <tr>
+    <td>
+      <a href="#">
+        <h3>📅 2025 | <strong>Empresa de Consultoria de TI (Confidencial)</strong> - Desenvolvedor Sênior Java</h3>
+        <p><em>Janeiro de 2025 - Maio de 2025 (5 meses)</em></p>
+        <p><strong>Local:</strong> Remota</p>
+        <p>
+              <li>Atuação na modernização de sistemas de missão crítica para um cliente de grande porte do setor público, utilizando arquitetura baseada em microsserviços.</li>
+              <li>Responsável pelo desenvolvimento e manutenção de APIs RESTful para consulta de dados sensíveis e de alto volume, garantindo a performance, disponibilidade e segurança da informação.</li>
+              <li>Participação ativa em todo o ciclo de desenvolvimento, incluindo a automação e gestão de pipelines de CI/CD para otimizar a entrega contínua das aplicações.</li>
+        </p>
+      </a>
+      <p><strong>Tecnologias:</strong> Spring Boot, Arquitetura Limpa, Código Limpo, DDD, TDD, Spring Data, Redmine, Swagger.</p>
+    </td>
+  </tr>
 </table>
 
 
+<table>
+  <tr>
+    <td>
+      <a href="#">
+        <h3>📅 2019 | <strong>Freelance</strong> - Especialista de TI | Redes, PCs e Notebooks</h3>
+        <p><em>Janeiro de 2019 - O momento</em></p>
+        <p><strong>Local:</strong> Niterói, Rio de Janeiro, Brasil (Híbrida)</p>
+        <p>
+              <li>Atuação como especialista em traduzir problemas complexos de tecnologia em soluções simples e eficazes.</li>
+              <li>Realização de diagnóstico completo em PCs e notebooks, e configuração de redes seguras para garantir conectividade e estabilidade.</li>
+              <li>Foco na otimização de sistemas para máxima performance e na implementação de camadas de segurança para proteção de dados.</li>
+        </p>
+      </a>
+      <p><strong>Tecnologias:</strong> Windows Server/Desktop, Configuração de Redes (TCP/IP, Roteadores, Switches), Firewall & Segurança de Redes.</p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+<table>
+  <tr>
+    <td>
+      <h3>📅 2025 | <strong>COTI INFORMÁTICA</strong> - Formação Java Full Stack</h3>
+      <p><em>Março de 2025 - Março de 2026</em></p>
+      <p>
+      A profundidade deste curso de 96 horas é tão grande que optei por uma imersão completa. Esta é a terceira vez que concluo o ciclo de aprendizado, e meu plano é continuar aprofundando meus conhecimentos até o limite de 1 ano permitido, para extrair o máximo de cada conceito e ferramenta.
+      </p>
+      <p>
+        <strong>Tecnologias e Padrões:</strong>
+        <ul>
+          <li><strong>Java & Spring Framework:</strong> Spring Boot, Spring Security, Spring Data.</li>
+          <li><strong>Arquitetura:</strong> Microsserviços e APIs RESTful.</li>
+          <li><strong>Frontend:</strong> Angular e TypeScript.</li>
+          <li><strong>Bancos de Dados:</strong> Relacional (PostgreSQL, MySQL) e NoSQL (MongoDB).</li>
+          <li><strong>Mensageria:</strong> RabbitMQ para integração de sistemas.</li>
+          <li><strong>DevOps & Ferramentas:</strong> Docker, Git/GitHub, JUnit, Mockito, Eclipse e VSCode.</li>
+        </ul>
+      </p>
+    </td>
+  </tr>
+</table>
