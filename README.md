@@ -75,7 +75,7 @@
   <tr>
     <td>
       <a href="#">
-        <h3>📅 2024 | <strong>Empresa de Soluções em Tecnologia (Confidencial)</strong> - Desenvolvedor Sênior Java</h3>
+        <h3>📅 2024 | <strong>Empresa de Soluções em Tecnologia (Confidencial)</strong> - Desenvolvedor Java</h3>
         <p><em>Agosto de 2024 - Dezembro de 2024 (5 meses)</em></p>
         <p><strong>Local:</strong> Remota</p>
         <p>
@@ -94,7 +94,7 @@
   <tr>
     <td>
       <a href="#">
-        <h3>📅 2025 | <strong>Empresa de Consultoria de TI (Confidencial)</strong> - Desenvolvedor Sênior Java</h3>
+        <h3>📅 2025 | <strong>Empresa de Consultoria de TI (Confidencial)</strong> - Desenvolvedor Java</h3>
         <p><em>Janeiro de 2025 - Maio de 2025 (5 meses)</em></p>
         <p><strong>Local:</strong> Remota</p>
         <p>
